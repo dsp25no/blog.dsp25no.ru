@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "dsp25no",
+    "repositoryName": "blog.dsp25no.ru",
+    "branch": "master",
+    "cname": "blog.dsp25no.ru"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://blog.dsp25no.ru",
+    "hubpress": "http://blog.dsp25no.ru",
+    "theme": "//blog.dsp25no.ru/themes/casper",
+    "images": "http://blog.dsp25no.ru/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
