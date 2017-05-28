@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dsp25no]]></title><description><![CDATA[This is the blog of Dmitry Pavlov. Это блог Дмитрия Павлова.]]></description><link>http://blog.dsp25no.ru</link><image><url>https://raw.githubusercontent.com/dsp25no/blog.dsp25no.ru/gh-pages/images/Darth-Vader.png</url><title>dsp25no</title><link>http://blog.dsp25no.ru</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 28 May 2017 20:13:51 GMT</lastBuildDate><atom:link href="http://blog.dsp25no.ru/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Что тебе видно веб-аналитик?]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dsp25no]]></title><description><![CDATA[This is the blog of Dmitry Pavlov. Это блог Дмитрия Павлова.]]></description><link>http://blog.dsp25no.ru</link><image><url>https://raw.githubusercontent.com/dsp25no/blog.dsp25no.ru/gh-pages/images/Darth-Vader.png</url><title>dsp25no</title><link>http://blog.dsp25no.ru</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 28 May 2017 20:15:47 GMT</lastBuildDate><atom:link href="http://blog.dsp25no.ru/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Что тебе видно веб-аналитик?]]></title><description><![CDATA[<div class="paragraph">
 <p>В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?</p>
 </div>
 <div class="paragraph">
@@ -8,7 +8,13 @@
 <div class="content">
 <pre class="highlight"><code class="language-pdf" data-lang="pdf">Unresolved directive in &lt;stdin&gt; - include::https://github.com/dsp25no/blog.dsp25no.ru/raw/gh-pages/data/Diplom.pdf[]</code></pre>
 </div>
-</div>]]></description><link>http://blog.dsp25no.ru/2017/05/28/what-can-you-see-web-analytic.html</link><guid isPermaLink="true">http://blog.dsp25no.ru/2017/05/28/what-can-you-see-web-analytic.html</guid><pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[First post]]></title><description><![CDATA[<div class="paragraph">
-<p>"Good bye, old friend. May the Force be with you."
-- Obi-Wan Kenobi</p>
+</div>]]></description><link>http://blog.dsp25no.ru/2017/05/28/what-can-you-see-web-analytic.html</link><guid isPermaLink="true">http://blog.dsp25no.ru/2017/05/28/what-can-you-see-web-analytic.html</guid><pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[First post]]></title><description><![CDATA[<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Good bye, old friend. May the Force be with you.</p>
+</div>
+</blockquote>
+<div class="attribution">
+&#8212; Obi-Wan Kenobi
+</div>
 </div>]]></description><link>http://blog.dsp25no.ru/2017/05/28/First-post.html</link><guid isPermaLink="true">http://blog.dsp25no.ru/2017/05/28/First-post.html</guid><pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate></item></channel></rss>
