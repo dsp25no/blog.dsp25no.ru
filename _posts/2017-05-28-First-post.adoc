@@ -1,4 +1,6 @@
 = First post
 
-"Good bye, old friend. May the Force be with you."
-- Obi-Wan Kenobi
+[, Obi-Wan Kenobi]
+""
+Good bye, old friend. May the Force be with you.
+""
