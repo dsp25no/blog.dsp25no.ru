@@ -1,0 +1,12 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= Что тебе видно веб-аналитик?
+:hp-alt-title: what you can see web-analytic
+
+В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?
+
+image::https://raw.githubusercontent.com/dsp25no/blog.dsp25no.ru/gh-pages/images/Darth-Vader.png[]
