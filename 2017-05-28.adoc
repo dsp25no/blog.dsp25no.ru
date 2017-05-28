@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Что тебе видно веб-аналитик?</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="http://blog.dsp25no.ru/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//blog.dsp25no.ru/themes/casper/assets/css/screen.css?v=1495991385643" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="http://blog.dsp25no.ru/2017-05-28.adoc" />
+    <meta name="referrer" content="origin" />
+    
+    <meta property="og:site_name" content="dsp25no" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Что тебе видно веб-аналитик?" />
+    <meta property="og:description" content="В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?" />
+    <meta property="og:url" content="http://blog.dsp25no.ru/2017-05-28.adoc" />
+    <meta property="og:image" content="/images/Darth-Vader.png" />
+    <meta property="article:published_time" content="2017-05-28T00:00:00.000Z" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Что тебе видно веб-аналитик?" />
+    <meta name="twitter:description" content="В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?" />
+    <meta name="twitter:url" content="http://blog.dsp25no.ru/2017-05-28.adoc" />
+    <meta name="twitter:image:src" content="/images/Darth-Vader.png" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "dsp25no",
+    "author": {
+        "@type": "Person",
+        "name": "dsp25no",
+        "image": "https://avatars2.githubusercontent.com/u/8937655?v=3",
+        "url": "http://blog.dsp25no.ru/author/dsp25no/"
+    },
+    "headline": "Что тебе видно веб-аналитик?",
+    "url": "http://blog.dsp25no.ru/2017-05-28.adoc",
+    "datePublished": "2017-05-28T00:00:00.000Z",
+    "image": "/images/Darth-Vader.png",
+    "description": "В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?"
+}
+    </script>
+
+    <meta name="generator" content="HubPress" />
+    <link rel="alternate" type="application/rss+xml" title="dsp25no" href="http://blog.dsp25no.ru/rss/" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
+</head>
+<body class="post-template nav-closed">
+
+    
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head " style="background-image: url(/images/Darth-Vader.png)">
+    <nav class="main-nav overlay clearfix">
+        
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post">
+
+        <header class="post-header">
+            <h1 class="post-title">Что тебе видно веб-аналитик?</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2017-05-28">28 May 2017</time> 
+            </section>
+        </header>
+
+        <section class="post-content">
+            <div class="paragraph">
+<p>В наше время веб-аналитика используется повсеместно. Но так ли безопасно подключать Javascript-плагины для сбора статистики на страницах с конфиденциальными данными? Осознают ли риски в банковской сфере?</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/dsp25no/blog.dsp25no.ru/images/Darth-Vader.png" alt="Darth Vader.png">
+</div>
+</div>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="http://blog.dsp25no.ru/author/dsp25no/" style="background-image: url(https://avatars2.githubusercontent.com/u/8937655?v&#x3D;3)"><span class="hidden">dsp25no's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="http://blog.dsp25no.ru/author/dsp25no/">dsp25no</a></h4>
+
+                    <p>Read <a href="http://blog.dsp25no.ru/author/dsp25no/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%D0%A7%D1%82%D0%BE%20%D1%82%D0%B5%D0%B1%D0%B5%20%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%20%D0%B2%D0%B5%D0%B1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%3F&amp;url=http://blog.dsp25no.ru/2017-05-28.adoc"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://blog.dsp25no.ru/2017-05-28.adoc"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://blog.dsp25no.ru/2017-05-28.adoc"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+
+    </article>
+
+</main>
+
+<aside class="read-next">
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="http://blog.dsp25no.ru">dsp25no</a> &copy; 2017</section>
+            <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();
+      </script>
+       
+    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+    <script type="text/javascript" src="//blog.dsp25no.ru/themes/casper/assets/js/jquery.fitvids.js?v=1495991385643"></script>
+    <script type="text/javascript" src="//blog.dsp25no.ru/themes/casper/assets/js/index.js?v=1495991385643"></script>
+
+</body>
+</html>
