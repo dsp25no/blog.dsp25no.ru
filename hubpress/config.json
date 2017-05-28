@@ -9,8 +9,8 @@
     "name": "casper"
   },
   "urls": {
-    "site": "http://blog.dsp25no.ru/",
-    "hubpress": "http://blog.dsp25no.ru/",
+    "site": "http://blog.dsp25no.ru",
+    "hubpress": "http://blog.dsp25no.ru",
     "theme": "//blog.dsp25no.ru/themes/casper",
     "images": "http://blog.dsp25no.ru/images"
   },
