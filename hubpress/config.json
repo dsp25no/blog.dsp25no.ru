@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "dsp25no",
-    "repositoryName": "blog.dsp25no.ru",
-    "branch": "master",
+    "repositoryName": "dsp25no.github.io",
+    "branch": "gh-pages",
     "cname": "blog.dsp25no.ru"
   },
   "theme": {
