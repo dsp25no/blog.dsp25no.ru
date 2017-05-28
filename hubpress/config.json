@@ -9,10 +9,10 @@
     "name": "uno-zen"
   },
   "urls": {
-    "site": "https://blog.dsp25no.ru",
+    "site": "http://blog.dsp25no.ru",
     "hubpress": "https://blog.dsp25no.ru",
     "theme": "//blog.dsp25no.ru/themes/uno-zen",
-    "images": "https://blog.dsp25no.ru/images"
+    "images": "http://blog.dsp25no.ru/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
