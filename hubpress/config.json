@@ -3,7 +3,7 @@
     "username": "dsp25no",
     "repositoryName": "blog.dsp25no.ru",
     "branch": "gh-pages",
-    "cname": "blog.dsp25no.ru"
+    "cname": "blog.dsp25no.ru."
   },
   "theme": {
     "name": "casper"
@@ -24,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
