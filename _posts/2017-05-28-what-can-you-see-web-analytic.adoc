@@ -11,6 +11,6 @@
 
 Если кратко, то небезопасно. Но подключение Javascript-плагинов на страницах входа в интернет-банк не единичный случай. Подробнее в дипломной работе https://github.com/dsp25no/blog.dsp25no.ru/raw/gh-pages/data/Diplom.pdf["Исследование безопасности Javascript-плагинов для сбора статистики"] (https://github.com/dsp25no/blog.dsp25no.ru/raw/gh-pages/data/Diplom_presentation.pdf[Презентация]).
 
-Результаты работы были представлены на международном форуме, посвященном пратической безопасности Positive Hack Days VII (https://github.com/dsp25no/blog.dsp25no.ru/raw/gh-pages/data/PHD_2017.pdf[Презентация])
+Результаты работы были представлены на международном форуме, посвященном пратической безопасности Positive Hack Days VII (https://github.com/dsp25no/blog.dsp25no.ru/raw/gh-pages/data/PHD_2017.pdf[Презентация]).
 
 P.S. В данный момент в работе нет таблицы с результатами, они будут выложены позднее, после согласования их с банками.
