@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://blog.dsp25no.ru",
     "hubpress": "https://blog.dsp25no.ru",
-    "theme": "//blog.dsp25no.ru/themes/casper",
+    "theme": "//blog.dsp25no.ru/themes/uno",
     "images": "http://blog.dsp25no.ru/images"
   },
   "initialisationConfigComponent": {
