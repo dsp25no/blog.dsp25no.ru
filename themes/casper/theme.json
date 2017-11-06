@@ -7,7 +7,8 @@
     "index": "index.hbs",
     "page": "page.hbs",
     "post": "post.hbs",
-    "tag": "tag.hbs"
+    "tag": "tag.hbs",
+    "social": "partials/social.hbs"
   },
   "version":"1.0.0"
 }
