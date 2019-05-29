@@ -23,7 +23,11 @@
       null,
       null
     ],
-    "_Ctor": {}
+    "_Ctor": {},
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   },
   "site": {
     "title": "dsp25no",
